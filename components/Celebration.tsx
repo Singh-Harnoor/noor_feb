@@ -53,7 +53,7 @@ const Celebration: React.FC = () => {
       
       <div className="fixed inset-0 pointer-events-none opacity-5 flex flex-wrap gap-10 p-4 select-none rotate-12">
         {Array.from({ length: 20 }).map((_, i) => (
-          <span key={i} className="text-9xl font-black text-red-900">NOOR X NOOR</span>
+          <span key={i} className="text-9xl font-black text-red-900">STOP MET SCHATTIG</span>
         ))}
       </div>
     </div>

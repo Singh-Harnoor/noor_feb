@@ -43,7 +43,7 @@ const ValentineProposal: React.FC<Props> = ({ onAccept }) => {
     >
       <div className="text-center mb-12 select-none">
         <h2 className="font-romantic text-7xl md:text-8xl text-red-600 mb-4 drop-shadow-md">
-          Noor,
+          So,
         </h2>
         <p className="font-dancing text-4xl md:text-5xl text-red-500 px-4">
           would you be the valentine of Noor?
